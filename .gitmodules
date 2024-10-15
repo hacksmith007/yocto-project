@@ -1,0 +1,6 @@
+[submodule "poky"]
+	path = poky
+	url = ./poky/
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = ./meta-raspberrypi/
