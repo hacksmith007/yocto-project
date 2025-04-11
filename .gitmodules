@@ -1,9 +1,9 @@
 [submodule "poky"]
 	path = poky
-	url = https://github.com/hacksmith007/poky.git
+	url = git@github.com:hacksmith007/poky.git
 [submodule "meta-raspberrypi"]
 	path = meta-raspberrypi
-	url = https://github.com/hacksmith007/meta-raspberrypi.git
+	url =  git@github.com:hacksmith007/meta-raspberrypi.git
 [submodule "meta-utils"]
 	path = meta-utils
 	url = git@github.com:hacksmith007/meta-utils.git
